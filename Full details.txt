@@ -1,6 +1,6 @@
 Full names: Ts'epo Mats'osa
 Student number : 901017161
-link to github : 
+link to github : https://github.com/tsepo-coder/dabase_individual_assigment
 Individual Assignment : 20%
 Module name : Database Management System
 Course Name : BSc in Information Technology
