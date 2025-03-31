@@ -1,0 +1,49 @@
+Full names: Ts'epo Mats'osa
+Student number : 901017161
+link to github : 
+Individual Assignment : 20%
+Module name : Database Management System
+Course Name : BSc in Information Technology
+Lecturer : Thato Makheka 
+
+
+
+
+SUMMARY OF THE PROJECT
+
+I created TT Holdings database. It keeps track of workers, their employers, their employment history, 
+and the roles they occupy. After creating the actual database tables and adding sample data, I began 
+with a diagram. I created functions for computations, triggers to automate changes, views for various 
+perspectives on the data, and procedures for tasks using advanced SQL. Additionally, I created user 
+accounts with various levels of access. I recorded the entire procedure. In essence, I demonstrated my 
+ability to use the tools by creating a working database.
+
+CHALLENGES 
+
+TT Holdings database construction was fraught with difficulties. First, it took a lot of analytical 
+work to properly map the intricate relationships between workers, organizations, jobs, and positions 
+in the ER/EER diagram. There was a steep learning curve since the complex SQL components.specifically, 
+the triggers, functions, and procedures, required a thorough comprehension of SQL syntax and logic. 
+It was challenging to strike a balance between the functional requirements of the project and 
+preserving database simplicity, necessitating careful analysis of each feature's implementation.
+ Furthermore, careful planning was required because controlling user privileges for safe access
+ control was more complicated than expected. Lastly, thorough documentation of the entire process 
+took time, but it was essential for future reference and clarity.
+
+HOW I OVER COME THE CHALLENGES
+
+To successfully complete the TT Holdings database project, I had to actively seek out solutions 
+to several complex challenges. When grappling with the intricate relationships for the ER/EER diagram,
+ I found visual explanations on YouTube channels like "Derek Banas" and "freeCodeCamp.org" incredibly 
+helpful; their database design tutorials provided clear, step-by-step guidance. For the advanced SQL 
+components, particularly triggers, functions, and procedures, I relied heavily on detailed articles and
+ examples from websites like Tutorialspoint and W3Schools. Additionally, the "SQL Tutorial" series on the
+ "thenewboston" YouTube channel clarified many of the more nuanced SQL concepts. Balancing the project's
+ requirements with database simplicity was achieved through careful planning and iterative development, 
+prioritizing core functionalities before adding auxiliary features. For user privilege management, I 
+consulted the official MySQL documentation and sought supplementary explanations on forums like 
+Stack Overflow.
+
+CONCLUSION 
+
+This project provided a valuable learning experience, significantly enhancing my skillset.
